@@ -1,0 +1,7 @@
+{
+  "chromeWebSecurity": false,
+  "baseUrl": "https://parabank.parasoft.com/",
+  "theme": "dark",
+  "testFiles": "**/*.feature"
+  
+  }
